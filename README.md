@@ -5,10 +5,10 @@ This is a dot net based web application written in C#. I developed this web appl
 # Abstract
 
 1.	Objective:
-The main aim of this site  is online booking tickets for various movies in Registered Screens by the users.
+The main objective of this site is online booking tickets for various movies in registered screens by the users.
 
 2.	Problem Definition:
-Here details about Now playing movies and no of tickets available in a particular theatre for particular movie, Movie Details, ticket cost for registered users 
+Here details about Now playing movies and no. of tickets available in a particular theatre for particular movie, Movie Details, ticket cost for registered users are displayed. 
 
 3.	Existing System:
 
@@ -29,3 +29,7 @@ This project contains two modules
 
 1. Admin: In this module administrator has to register the theatres assign movies to theatres, register users.
 2. Users: In this users can see the showing movies and upcoming movies details , ticket booking and Registering as members.   
+
+# Sample screenshots for the website
+
+![alt text](screenshots/filename.png "Description goes here")
