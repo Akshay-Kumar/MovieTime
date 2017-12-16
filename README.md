@@ -11,10 +11,11 @@ The main aim of this site  is online booking tickets for various movies in Regis
 Here details about Now playing movies and no of tickets available in a particular theatre for particular movie, Movie Details, ticket cost for registered users 
 
 3.	Existing System:
-Present System developed in ASP.NET, there are some limitations.
- -> It is server scripting language.
- -> It is very code  complex.
- -> It Doesn’t Support language interoperability.
+
+Present System developed in ASP.NET and there are some limitations.
+ 1. It is server scripting language.
+ 2. It is very code  complex.
+ 3. It Doesn’t Support language interoperability.
  
 4.	Proposed System:
 Asp.net Support code behind technology
