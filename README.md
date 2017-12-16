@@ -12,7 +12,7 @@ Here details about Now playing movies and no of tickets available in a particula
 
 3.	Existing System:
 Present System developed in ASP.NET, there are some limitations.
-	-> It is server scripting language.
+ -> It is server scripting language.
  -> It is very code  complex.
  -> It Doesn’t Support language interoperability.
  
