@@ -32,6 +32,14 @@ This project contains two modules
 
 # Sample screenshots for the website
 
+[Home page]
 ![loading...](pics/untitled.bmp "Home page")
+
+[Movie search page]
 ![loading...](pics/7.bmp "Movie search page")
+
+[Billing page]
 ![loading...](pics/8.bmp "Billing page")
+
+[Administration page]
+![loading...](pics/8.bmp "Administration page")
