@@ -32,4 +32,4 @@ This project contains two modules
 
 # Sample screenshots for the website
 
-![alt text](screenshots/filename.png "Description goes here")
+![loading...](pics/untitled.bmp "Home page")
